@@ -1,0 +1,13 @@
+Visit to the Universe:
+Description:
+A Children quiz game that make them memorize the vocabulary of our solar system & different names of galaxies in our universe. It is a fun type learning game that make Kids improve your vocabulary.
+Features:
+•	The series of quizzes about our solar system & different names of galaxies in our universe.
+•	Timer for the quiz which records the how much time the solving has taken.
+•	Play/Pause and Stop/Restart Options.
+•	Result in True or False is shown against every selection.
+•	At the end Summary of How much questions were true, how much were False and how much time it took to solve the complete quiz.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Live Tiles(Locally & Remotely)
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
+
